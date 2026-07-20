@@ -1,0 +1,89 @@
+# =========================
+# Python
+# =========================
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Compiled extensions
+*.so
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# =========================
+# Virtual environments
+# =========================
+.venv/
+venv/
+env/
+ENV/
+
+# =========================
+# Jupyter Notebook
+# =========================
+.ipynb_checkpoints/
+
+# =========================
+# Testing
+# =========================
+.pytest_cache/
+.coverage
+.coverage.*
+htmlcov/
+
+# =========================
+# Type checking / linting
+# =========================
+.mypy_cache/
+.pyright/
+.ruff_cache/
+
+# =========================
+# IDEs
+# =========================
+.vscode/
+.idea/
+
+# =========================
+# OS files
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# Logs
+# =========================
+*.log
+
+# =========================
+# Environment variables
+# =========================
+.env
+.env.*
+
+# =========================
+# Temporary files
+# =========================
+*.tmp
+*.swp
+*.swo
+
+# =========================
+# Local data (optional)
+# Uncomment if you don't want to version datasets
+# =========================
+# data/
+# datasets/
+
+# =========================
+# Model checkpoints (optional)
+# =========================
+# *.pkl
+# *.joblib
+# *.h5
+# *.pt
+# *.pth
